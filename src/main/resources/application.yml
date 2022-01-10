@@ -1,0 +1,3 @@
+micronaut:
+  application:
+    name: micronaut_2_4_0_http_filter
